@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+
+@layer base {
+  html {
+    @apply font-sans;
+  }
+
+  body {
+    @apply bg-bg-primary;
+  }
+}
